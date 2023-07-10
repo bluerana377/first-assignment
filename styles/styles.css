@@ -2,21 +2,33 @@
     margin: 0;
     padding: 0;
 }
-/* header styles hare  */
+.btn-primary{
+    background-color: #E55473;
+}
 .header{
     background-color: #FCEEF1;
-    max-height: 600px;
+    height: 675px;
+    
 }
-.main-home-container{
+.home-container{
+    padding:  30px 30px 30px 150px;
     display: flex;
-    max-width: 1280px;
     align-items: center;
-    text-align: justify;
+    margin: auto;
 }
-.left-text-content{
-    max-width: 50%;
+.btn-primary{
+    border-radius: 5px;
+    background-color: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
 }
-.right-image{
-    max-width: 50%;
+.home-title, .home-description{
+    margin: 10px;
+}
+.home-right-image{
+    margin-top: 141px;
 
 }

@@ -9,7 +9,14 @@
 }
 .main-home-container{
     display: flex;
+    max-width: 1280px;
+    align-items: center;
+    text-align: justify;
 }
 .left-text-content{
+    max-width: 50%;
+}
+.right-image{
+    max-width: 50%;
 
 }

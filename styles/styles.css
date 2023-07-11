@@ -25,10 +25,13 @@
     font-weight: 700;
     padding: 15px 35px;
 }
+.home-title{
+    font-size: 60px;
+}
 .home-title, .home-description{
     margin: 10px;
 }
 .home-right-image{
     margin-top: 141px;
-
 }
+/* main section related styles hare  */
